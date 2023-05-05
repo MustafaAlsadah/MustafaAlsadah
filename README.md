@@ -1,4 +1,4 @@
-![gh-pp](https://user-images.githubusercontent.com/66411754/236486572-32097be2-1873-4181-83c7-e0e9a62a056e.png)
+![gh-pp-2](https://user-images.githubusercontent.com/66411754/236498008-d78c258f-e2ed-4f99-8a76-033173ae3ce4.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mustafa</h2>
 
@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Software Engineering at King Fahd University of Petroleum and Minerals.\
 🌱 &nbsp;I'm on track for learning more about ReactJS, Cloud Computing, Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I pursue Reading and Sports as hobbies/side hustles.\
